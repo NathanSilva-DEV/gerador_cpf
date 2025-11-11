@@ -71,5 +71,3 @@ Este projeto é destinado exclusivamente para fins educacionais.
 👨‍💻 Autor
 Nathan Silva
 https://github.com/NathanSilva-DEV
-Deseja gerar o CPF com caracteres de pontuação? [S]im [N]não: S
-
