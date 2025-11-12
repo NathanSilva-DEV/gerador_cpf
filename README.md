@@ -56,5 +56,4 @@ Este projeto é destinado exclusivamente para fins educacionais.
 👨‍💻 Autor
 
 Nathan Silva
-
 https://github.com/NathanSilva-DEV
