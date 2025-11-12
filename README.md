@@ -5,6 +5,7 @@ Projeto simples desenvolvido em **Python** com o objetivo de **gerar CPFs válid
 ---
 
 ## 🎯 Objetivo do projeto
+
 Este projeto foi criado com o propósito de **exercitar conceitos fundamentais de programação em Python**, incluindo:
 - Estruturas de repetição (`for`, `while`);
 - Manipulação de listas;
@@ -19,6 +20,7 @@ Além disso, o código traz uma implementação prática do **algoritmo de valid
 ---
 
 ## 💡 Como funciona
+
 O programa permite ao usuário:
 1. Escolher quantos CPFs deseja gerar;
 2. Definir se os CPFs devem ser exibidos **com ou sem pontuação**;
@@ -28,6 +30,7 @@ O programa permite ao usuário:
 ---
 
 ⚙️ Tecnologias utilizadas
+
 Linguagem: Python 3.13
 
 Bibliotecas padrão:
@@ -37,17 +40,20 @@ os – para limpar o terminal conforme o sistema operacional.
 ---
 
 🧠 Intuito de aprendizagem
+
 O intuito principal é aprender e consolidar conceitos de lógica de programação e Python, criando algo funcional e prático.
 O projeto também ajuda a compreender validação algorítmica, formatação de dados e interação com o usuário via terminal.
 
 ---
 
 ⚠️ Aviso importante
+
 Os CPFs gerados são inteiramente fictícios e não devem ser usados em cadastros reais ou para fins ilegais.
 Este projeto é destinado exclusivamente para fins educacionais.
 
 ---
 
 👨‍💻 Autor
+
 Nathan Silva
 https://github.com/NathanSilva-DEV
