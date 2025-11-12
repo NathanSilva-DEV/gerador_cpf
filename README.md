@@ -27,26 +27,6 @@ O programa permite ao usuário:
 
 ---
 
-## 🧠 Exemplo de uso
-
-```bash
-Deseja gerar quantos CPFs: 3
-Deseja gerar o CPF com caracteres de pontuação? [S]im [N]não: S
-
------------------------------------
-         GERADOR DE CPF VÁLIDO
------------------------------------
-CPF 1
-CPF gerado: 572.941.290-00
-Região fiscal: Bahia (BA), Sergipe (SE)
-
-CPF 2
-CPF gerado: 129.845.370-91
-Região fiscal: Distrito Federal (DF), Goiás (GO), Mato Grosso (MT)...
-
-```
----
-
 ⚙️ Tecnologias utilizadas
 Linguagem: Python 3.13
 
